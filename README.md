@@ -3,8 +3,9 @@
 🎓 **Final Year CSE Student** at KSRIET, Thiruchengode  
 💻 **Full Stack Developer** | **Power BI Data Analyst**  
 ☕ Intermediate in **Java** & **Python**  
-🔗 [LinkedIn: Poorvajan G S](https://www.linkedin.com/in/poorvajan-g-s-98a1a1269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-🔗https://poorvajan28.github.io/Poorvajan-Portfolio/
+**🔗 [LinkedIn: Poorvajan G S](https://www.linkedin.com/in/poorvajan-g-s-98a1a1269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
+
+**My Portfolio-🔗https://poorvajan28.github.io/Poorvajan-Portfolio/**
 ---
 
 ## 🚀 About My Project
